@@ -2,6 +2,8 @@
 
 This project focuses on analyzing and predicting duplicate questions on Quora using various machine learning models. The project is divided into multiple stages, each documented in its respective Jupyter Notebook.
 
+![Quora Question Pair Similarity](quora.png)
+
 ## Project Structure
 
 - `1.Quora.ipynb`: Initial exploration and visualization of the Quora dataset.
